@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bulutbebe
 - 👀 I’m interested in Machine/Deep Learning, Signal Processing and Optimization
-- 🌱 I’m currently learning Cryptography and how to deploy privacy-preserving ML algorithms
-- 💞️ I’m looking to collaborate on ML teqniques and Cryptography
+- 🌱 I have deployed privacy-preserving ML algorithms as well as cyber-attack detection methods using Topological Data Analysis (TDA)
+- 💞️ I’m looking to collaborate on ML teqniques, anomaly detection and signal processing
 - 📫 How to reach me: bulutkuskonmaz@gmail.com
 
 <!---
